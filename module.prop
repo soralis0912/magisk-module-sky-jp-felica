@@ -1,7 +1,7 @@
 id=sky-jp-felica
 name=Patch for Redmi 12 5G Japan
-version=v02
-versionCode=02
+version=v03
+versionCode=03
 author=soralis0912
 description=Redmi 12 5G 日本版用パッチ
 updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-sky-jp-felica/master/update.json
